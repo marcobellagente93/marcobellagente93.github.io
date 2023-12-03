@@ -12,11 +12,22 @@
       "name": "Stability AI",
       "position": "Research Scientist",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "startDate": "06-2023",
+      "endDate": "",
+      "summary": "TODO",
       "highlights": [
-        "Relativity"
+        "Language models"
+      ]
+    },
+    {
+      "name": "Aleph-Alpha",
+      "position": "Research Engineer",
+      "url": "https://example.com",
+      "startDate": "01-2022",
+      "endDate": "06-2023",
+      "summary": "TODO",
+      "highlights": [
+        "Language models", "Multimodality"
       ]
     }
   ],
@@ -24,15 +35,21 @@
   "education": [
     {
       "institution": "University of Milan",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "url": "",
+      "area": "Generative modelling for particle physics",
       "studyType": "",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "startDate": "2019",
+      "endDate": "2022",
+      "score": "Best grades (sehr gut)"
+    },
+    {
+      "institution": "University of Milan",
+      "url": "",
+      "area": "Theoretical physics",
+      "studyType": "",
+      "startDate": "2017",
+      "endDate": "2018",
+      "score": "110/110 with honors"
     }
   ],
   "certificates": [],
@@ -40,12 +57,16 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "Passable"
     }
   ],
   "interests": [],
